@@ -1,0 +1,6 @@
+framework module Pods_LaunchImage {
+  umbrella header "Pods-LaunchImage-umbrella.h"
+
+  export *
+  module * { export * }
+}
